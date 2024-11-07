@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="android:textColorHint">@color/white</item>
+
+    </style>
+    <style name="SpinnerHintStyle" parent="Widget.AppCompat.Spinner.Underlined">
+        <item name="android:textColorHint">@color/red_700</item>
+    </style>
+    <style name="SpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:hint">@color/white</item>
+        <!-- Aquí puedes agregar más atributos para cambiar otros elementos visuales del Spinner -->
+    </style>
+
+</resources>

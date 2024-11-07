@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tu-Du</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="opciones">
+
+        <item>Seleccione su Region</item>
+        <item>O higgins</item>
+
+        <!-- Agrega más opciones aquí si lo deseas -->
+    </string-array>
+    <string-array name="opcionescomuna">
+        <item >Seleccione su Comuna</item>
+        <item>Rancagua</item>
+
+        <!-- Agrega más opciones aquí si lo deseas -->
+    </string-array>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
